@@ -37,18 +37,18 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
-      <h1 class="logo me-auto"><a href="file:///C:/Users/hp/Desktop/WEBPROJECT/indexA.html">Academic Writers</a></h1>
+      <h1 class="logo me-auto"><a href="index.php">Academic Writers</a></h1>
 
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="file:///C:/Users/hp/Desktop/WEBPROJECT/indexA.html">Home</a></li>
+          <li><a class="active" href="index.php">Home</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="contact.php">Contacts</a></li>
           <li><a href="courses.html">Samples</a></li>
-          <li><a href="skills.html">Services</a></li>
-          <li><a href="placeorder.html">Place Order</a></li>
-      <a href="placeorder.html" class="get-started-btn">ORDER NOW</a>
+          <li><a href="servies.html">Services</a></li>
+          <li><a href="placeorder.php">Place Order</a></li>
+      <a href="placeorder.php" class="get-started-btn">ORDER NOW</a>
 
     </div>
   </header><!-- End Header -->
